@@ -20,7 +20,7 @@ local Tabs = {
     Raid = Window:AddTab({ Title = "Tab Tập kích", Icony = "swords" }),
     Race = Window:AddTab({ Title = "Tab Tộc V4", Icony = "chevrons-right" }),
     Shop = Window:AddTab({ Title = "Tab Cửa hàng", Icony = "shopping-cart" }),
-  	Misc = Window:AddTab({ Title = "Tab Khác", Icony = "list-plus" }),
+ 	Misc = Window:AddTab({ Title = "Tab Khác", Icony = "list-plus" }),
     Hop = Window:AddTab({ Title = "Tab Đổi sever", Icony = "user" }),
     Setting = Window:AddTab({ Title = "Tab Cài đặt", Icony = "settings" }),
 }
